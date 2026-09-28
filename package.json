@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/sparkicon",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Spark filesystem icon paths across POSIX and Windows conventions.",
+  "bin": {
+    "sparkicon": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/sparkicon.git"
+  },
+  "homepage": "https://theworker02.github.io/sparkicon/",
+  "keywords": [
+    "spark",
+    "icon",
+    "path",
+    "cli",
+    "toolkit"
+  ]
+}
